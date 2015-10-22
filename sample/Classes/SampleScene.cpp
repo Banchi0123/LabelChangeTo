@@ -1,16 +1,16 @@
-#include "HelloWorldScene.h"
+#include "SampleScene.h"
 #include "ui/CocosGUI.h"
 #include "LabelChangeTo.h"
 
 USING_NS_CC;
 
-Scene* HelloWorld::createScene()
+Scene* SampleScene::createScene()
 {
     // 'scene' is an autorelease object
     auto scene = Scene::create();
     
     // 'layer' is an autorelease object
-    auto layer = HelloWorld::create();
+    auto layer = SampleScene::create();
 
     // add layer as a child to scene
     scene->addChild(layer);
@@ -20,7 +20,7 @@ Scene* HelloWorld::createScene()
 }
 
 // on "init" you need to initialize your instance
-bool HelloWorld::init()
+bool SampleScene::init()
 {
     //////////////////////////////
     // 1. super init first

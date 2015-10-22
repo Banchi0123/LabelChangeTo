@@ -1,9 +1,9 @@
-#ifndef __HELLOWORLD_SCENE_H__
-#define __HELLOWORLD_SCENE_H__
+#ifndef __SampleScene_h__
+#define __SampleScene_h__
 
 #include "cocos2d.h"
 
-class HelloWorld : public cocos2d::Layer
+class SampleScene : public cocos2d::Layer
 {
 public:
     static cocos2d::Scene* createScene();
@@ -11,7 +11,7 @@ public:
     virtual bool init();
     
     // implement the "static create()" method manually
-    CREATE_FUNC(HelloWorld);
+    CREATE_FUNC(SampleScene);
 };
 
-#endif // __HELLOWORLD_SCENE_H__
+#endif // __SampleScene_h__
