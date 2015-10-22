@@ -15,3 +15,5 @@
   scoreText->runAction(LabelChangeTo<float>::create(2,10.0f));
   
   ```
+  
+Other examples have been here.   <https://github.com/Banchi0123/LabelChangeTo/blob/master/sample/Classes/SampleScene.cpp>.
