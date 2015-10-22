@@ -2,6 +2,10 @@
   
   This class provides an easy counting-up/down action to cocos2d-x ui::Text.  
   
+# Requirements
+  
+* cocos2d-x v3.0+
+  
 # Sample  
   
   ```c++
