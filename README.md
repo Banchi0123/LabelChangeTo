@@ -16,4 +16,4 @@
   
   ```
   
-Other examples have been here.   <https://github.com/Banchi0123/LabelChangeTo/blob/master/sample/Classes/SampleScene.cpp>.
+Other examples have been here.   [SampleScene.cpp](https://github.com/Banchi0123/LabelChangeTo/blob/master/sample/Classes/SampleScene.cpp)
