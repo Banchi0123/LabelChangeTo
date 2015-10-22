@@ -1,4 +1,4 @@
-# LabelChangeTo  
+# Summary  
   
   This class provides an easy counting-up/down action to cocos2d-x ui::Text.  
   
